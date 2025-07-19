@@ -17,7 +17,7 @@ To design and implement a horizontally scalable system that:
 ---
 
 ## 🧱 Application Architecture
-![App Screenshot](assets/image.png)
+![App Screenshot](Screenshot 2025-07-19 115044.png)
 
 
 ### 1. Client Input → Kafka Queue
